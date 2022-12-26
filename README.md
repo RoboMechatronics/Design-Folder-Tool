@@ -12,6 +12,8 @@ This app was packaged by PyInstaller.
 
 Let's make sure paths in paths.txt file is existed before run to avoid crash.
 
+Exact rar files in dist/ to get executable application on window 10 or later.
+
 Gookluck!
 
 Thank you.
