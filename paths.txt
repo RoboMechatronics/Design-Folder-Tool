@@ -1,0 +1,5 @@
+DESIGN_FOLDER_PATH=\\finley\design-share\Design1\Mechanical Vertical\-----{Design_Check}-----
+FOLDER_TEMPLATE_PATH=\\finley\design-share\Design1\Mechanical Vertical
+ECO_FOLDER_TEMPLATE_NAME=XXX-xxxxxx-xx_ECO xxxxx_Folder template
+NEW_FOLDER_TEMPLATE_NAME=XXX-XXXXXX-xx_Format folder_for New order
+EXTERNAL_ISSUE_FOLDER_PATH=C:\Users\username\Nidec SV TCL\SVPV TA DESIGN TEAM - Link
