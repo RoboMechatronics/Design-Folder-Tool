@@ -13,5 +13,6 @@ This app was packaged by PyInstaller.
 Let's make sure paths in paths.txt file is existed before run to avoid crash.
 
 Gookluck!
+
 Thank you.
-Hien
+
