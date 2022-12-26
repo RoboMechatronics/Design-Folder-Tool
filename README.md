@@ -8,11 +8,9 @@ You create a folder template which its name/path is similar in paths.txt and run
 
 ![image](https://user-images.githubusercontent.com/31280143/209561868-c3cf1dd0-f8e6-4fd8-be57-a6001ce69ff5.png)
 
-This app was packaged by PyInstaller.
-
 Let's make sure paths in paths.txt file is existed before run to avoid crash.
 
-Exact rar files in dist/ to get executable application on window 10 or later.
+This app was packaged by PyInstaller. Exact rar files in dist/ to get executable application on window 10 or later.
 
 Gookluck!
 
