@@ -635,14 +635,20 @@ class App(QWidget):
             self.suffix = "-01"
 
     def mousePressEvent(self, event):
-        self.message.setText("")
-        self.oldPosition = event.globalPos()
+        try:
+            self.message.setText("")
+            self.oldPosition = event.globalPos()
+        except:
+            pass
 
     def mouseMoveEvent(self, event):
-        self.message.setText("")
-        delta = QPoint(event.globalPos() - self.oldPosition)
-        self.move(self.x() + delta.x(), self.y() + delta.y())
-        self.oldPosition = event.globalPos()
+        try:
+            self.message.setText("")
+            delta = QPoint(event.globalPos() - self.oldPosition)
+            self.move(self.x() + delta.x(), self.y() + delta.y())
+            self.oldPosition = event.globalPos()
+        except:
+            pass
 
     def Close_window(self):
         self.close()
