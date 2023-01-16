@@ -177,13 +177,13 @@ class App(QWidget):
         # Text box Style
         self.part_number_textbox.setStyleSheet("QLineEdit{"
                                                "border-radius: 7px;"
-                                               "border: 1px solid black;"
+                                               "border: 1px solid white;"
                                                "color: rgb(255,255,255);"
                                                "}"
                                                )
         self.ECO_part_number_textbox.setStyleSheet("QLineEdit{"
                                                    "border-radius: 7px;"
-                                                   "border: 1px solid black;"
+                                                   "border: 1px solid white;"
                                                    "color: rgb(255,255,255);"
                                                    "}"
                                                    )
