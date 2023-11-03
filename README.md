@@ -6,7 +6,7 @@ The link above large textbox is parent folder which you used to store design fol
 
 You create a folder template which its name/path is similar in paths.txt and run this app. Let's see result. 
 
-![image](https://user-images.githubusercontent.com/31280143/209561868-c3cf1dd0-f8e6-4fd8-be57-a6001ce69ff5.png)
+![image](https://github.com/RoboMechatronics/Design-Folder-Tool/assets/31280143/535e77ad-b529-4f56-be3c-9d1c4d45de73)
 
 Let's make sure paths in paths.txt file is existed before run to avoid crash.
 
