@@ -10,7 +10,7 @@ You create a folder template which its name/path is similar in paths.txt and run
 
 Let's make sure paths in paths.txt file is existed before run to avoid crash.
 
-This app was packaged by PyInstaller. Exact rar files in dist/ to get executable application on window 10 or later.
+This app was packaged by PyInstaller. Extract .rar files in dist/ to get executable application on window 10 or later.
 
 Gookluck!
 
